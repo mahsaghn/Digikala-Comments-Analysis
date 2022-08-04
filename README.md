@@ -24,8 +24,10 @@ As the purpose of evaluating there two configuration some statistics are compare
 ## Model Archineture
 
 ### CNN
-![atl text]()
-Branches:
+![atl text](https://github.com/mahsaghn/Digikala-Comments-Analysis/blob/main/CNN.png)
+
+
+# Git branches:
 1. tokenizer
 2. word2vec
 3. cnn
